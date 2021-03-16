@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Markdown Test
-date: "2018-04-28 13:30:00 -0700"
-tags: [test, markdown, docs]
+title: My first blog
+date: "2021-03-16 16:04:00 -0700"
+tags: [test, blog, docs]
 ---
 
 You can write regular [markdown](https://markdowntutorial.com/) here and Jekyll will automatically convert it to a nice webpage.  I strongly encourage you to [take 5 minutes to learn how to write in markdown](https://markdowntutorial.com/) - it'll teach you how to transform regular text into bold/italics/headings/tables/etc.
